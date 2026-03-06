@@ -8,7 +8,7 @@ export const TrailerSection = () => {
         <p className={styles.copyBody}>
           Masterworks of Horror is a fast paced real time card game based off
           the literary works of famous authors such as H.P. Lovecraft, Edgar
-          Allen Poe, and many more.
+          Allan Poe, and many more.
         </p>
       </div>
     </div>
